@@ -1,40 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# 🎲 Monty Hall Problem Game 🎉
 
-## Getting Started
+## 🌐 About the Project
 
-First, run the development server:
+## 🌐 Sobre o Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This is a **web application** that simulates the classic **Monty Hall Problem**, developed using **Next.js** and **TypeScript**. It provides an interactive way to understand and explore the probabilities behind this famous statistical puzzle.  
+Este é um **aplicativo web** que simula o clássico **Problema de Monty Hall**, desenvolvido com **Next.js** e **TypeScript**. Ele oferece uma maneira interativa de entender e explorar as probabilidades por trás desse famoso enigma estatístico.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 🚀 Technologies Used / Tecnologias Utilizadas
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- 🖥️ **Next.js** - React framework for optimized rendering.  
+  **Next.js** - Framework React para renderização otimizada.
+- 🛠️ **TypeScript** - Typed superset of JavaScript.  
+  **TypeScript** - Superconjunto tipado do JavaScript.
+- 🎨 **CSS Modules** - For localized and organized styling.  
+  **CSS Modules** - Para estilos locais e organizados.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📅 Project Timeline / Cronograma
 
-## Learn More
+- **Start date:** 11/27/2024  
+  **Data de início:** 27/11/2024
 
-To learn more about Next.js, take a look at the following resources:
+- **Expected completion date:** 11/31/2024  
+  **Data prevista de conclusão:** 31/11/2024
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🌟 Features / Funcionalidades
 
-## Deploy on Vercel
+- Complete simulation of the Monty Hall problem 🧮  
+  Simulação completa do problema de Monty Hall 🧮
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Responsive interface 📱  
+  Interface responsiva 📱
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+- Switch or keep your choice 🗂️  
+  Alterne entre manter ou trocar sua escolha 🗂️
+
+- Detailed results with statistics 📊  
+  Resultados detalhados com estatísticas 📊
+
+---
+
+## 🤝 Contributions / Contribuições
+
+Made by myself alone during an online course!
+Feito por mim apenas, durante um curso online!
+
+---
+
+## 📜 License / Licença
+
+This project is licensed under the MIT License.  
+Este projeto está licenciado sob a licença MIT.
+
+---
+
+🎉 **Have fun playing and learning with this project!**  
+🎉 **Divirta-se jogando e aprendendo com esse projeto!**
