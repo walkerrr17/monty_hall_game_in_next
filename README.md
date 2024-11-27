@@ -2,7 +2,8 @@
 
 ## 🌐 About the Project / Sobre o Projeto
 
-This is a **web application** that simulates the classic **Monty Hall Problem**, developed using **Next.js** and **TypeScript**. It provides an interactive way to understand and explore the probabilities behind this famous statistical puzzle.  
+This is a **web application** that simulates the classic **Monty Hall Problem**, developed using **Next.js** and **TypeScript**. It provides an interactive way to understand and explore the probabilities behind this famous statistical puzzle.
+
 Este é um **aplicativo web** que simula o clássico **Problema de Monty Hall**, desenvolvido com **Next.js** e **TypeScript**. Ele oferece uma maneira interativa de entender e explorar as probabilidades por trás desse famoso enigma estatístico.
 
 ---
@@ -46,7 +47,7 @@ Este é um **aplicativo web** que simula o clássico **Problema de Monty Hall**,
 
 ## 🤝 Contributions / Contribuições
 
-Made by myself alone during an online course!
+Made by myself alone during an online course!  
 Feito por mim apenas, durante um curso online!
 
 ---
