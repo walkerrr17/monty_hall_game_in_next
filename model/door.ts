@@ -27,6 +27,10 @@ export default class DoorModel {
     return this.#isOpened;
   }
 
+  get isClosed() {
+    return !this.#isOpened;
+  }
+
   deselectDoor() {
     const selection = false;
     return new DoorModel(this.number, this.containsGift, selection, this.isOpened);
