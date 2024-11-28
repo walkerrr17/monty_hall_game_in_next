@@ -1,0 +1,66 @@
+/* Door Styles */
+
+.doorArea {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  width: var(--door-width-area);
+  height: var(--door-height-area);
+  margin: 5px;
+}
+
+.doorFrame {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column-reverse;
+  width: 90%;
+  background-color: #0005;
+  border-top: 5px solid #a52a2a;
+  border-right: 5px solid #a52a2a;
+  border-left: 5px solid #a52a2a;
+}
+
+.door {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  background-color: #d2691e;
+}
+
+.doorNumber {
+  font-size: 3rem;
+}
+
+.doorKnob {
+  position: absolute;
+  top: calc(0.45 * var(--door-height-area));
+  align-self: flex-start;
+  width: 20px;
+  height: 20px;
+  background-color: #a52a2a;
+  border-radius: 10px;
+}
+
+.doorFloor {
+  width: 100%;
+  height: 10px;
+  background-color: #ddd;
+}
+
+/* Selected Door Styles */
+.selectedDoor {
+  border-top: 5px solid #ffff00;
+  border-right: 5px solid #ffff00;
+  border-left: 5px solid #ffff00;
+}
+
+.selectedDoor .doorNumber {
+  color: #ffff00;
+}
+
+.selectedDoor .doorKnob {
+  background-color: #ffff00;
+}
